@@ -12,21 +12,21 @@ const GymStatistics = (props) => {
       </Helmet>
       <div className="gym-statistics-gym-statistics">
         <img
-          src="/external/rectangle095-dkla-900h.png"
+          src="/external/rectangle095-ezfc-900h.png"
           alt="Rectangle095"
           className="gym-statistics-rectangle"
         />
         <div className="gym-statistics-navigation-bar">
           <div className="gym-statistics-background">
             <img
-              src="/external/background0815-qrs-200h.png"
+              src="/external/background0815-yia-200h.png"
               alt="Background0815"
               className="gym-statistics-background1"
             />
           </div>
           <div className="gym-statistics-left-action">
             <img
-              src="/external/bound0819-kiml-200h.png"
+              src="/external/bound0819-4xoa-200h.png"
               alt="Bound0819"
               className="gym-statistics-bound"
             />
@@ -50,12 +50,12 @@ const GymStatistics = (props) => {
         <div className="gym-statistics-chart-line">
           <div className="gym-statistics-line">
             <img
-              src="/external/filli211-g12h.svg"
+              src="/external/filli211-mzal.svg"
               alt="FillI211"
               className="gym-statistics-fill"
             />
             <img
-              src="/external/strokei211-m6ha.svg"
+              src="/external/strokei211-0c9.svg"
               alt="StrokeI211"
               className="gym-statistics-stroke"
             />
@@ -79,19 +79,19 @@ const GymStatistics = (props) => {
           </div>
           <div className="gym-statistics-indicator">
             <img
-              src="/external/rectanglei211-ptgx-200w.png"
+              src="/external/rectanglei211-8inh-200w.png"
               alt="RectangleI211"
               className="gym-statistics-rectangle1"
             />
             <img
-              src="/external/ellipsei211-xc2-200h.png"
+              src="/external/ellipsei211-0a85-200h.png"
               alt="EllipseI211"
               className="gym-statistics-ellipse"
             />
           </div>
         </div>
         <img
-          src="/external/background2137-nkht-200h.png"
+          src="/external/background2137-fzvm-200h.png"
           alt="Background2137"
           className="gym-statistics-background2"
         />
@@ -102,7 +102,7 @@ const GymStatistics = (props) => {
           <span>RINGWORM</span>
         </span>
         <img
-          src="/external/background2137-h7og-200h.png"
+          src="/external/background2137-jp3j-200h.png"
           alt="Background2137"
           className="gym-statistics-background3"
         />
@@ -113,7 +113,7 @@ const GymStatistics = (props) => {
           <span>STAPH</span>
         </span>
         <img
-          src="/external/background2137-60jd-200h.png"
+          src="/external/background2137-awi-200h.png"
           alt="Background2137"
           className="gym-statistics-background4"
         />
@@ -124,12 +124,12 @@ const GymStatistics = (props) => {
           <span>RINGWORM</span>
         </span>
         <img
-          src="/external/background2137-nit-200h.png"
+          src="/external/background2137-warj-200h.png"
           alt="Background2137"
           className="gym-statistics-background5"
         />
         <img
-          src="/external/background2137-bq4c-200h.png"
+          src="/external/background2137-8ak3-200h.png"
           alt="Background2137"
           className="gym-statistics-background6"
         />
@@ -142,30 +142,30 @@ const GymStatistics = (props) => {
         <div className="gym-statistics-tab-bar">
           <div className="gym-statistics-background7">
             <img
-              src="/external/backgroundi078-2fya-200h.png"
+              src="/external/backgroundi078-4n2-200h.png"
               alt="BackgroundI078"
               className="gym-statistics-background8"
             />
             <div className="gym-statistics-frame40-toolbarnew">
               <img
-                src="/external/linechartoutlinedi078-bi7.svg"
+                src="/external/linechartoutlinedi078-o4mk.svg"
                 alt="LineChartOutlinedI078"
                 className="gym-statistics-line-chart-outlined"
               />
             </div>
             <img
-              src="/external/camerafilledi078-3bm.svg"
+              src="/external/camerafilledi078-2la.svg"
               alt="CameraFilledI078"
               className="gym-statistics-camera-filled"
             />
             <img
-              src="/external/vectori078-io.svg"
+              src="/external/vectori078-6t49.svg"
               alt="VectorI078"
               className="gym-statistics-vector"
             />
           </div>
           <img
-            src="/external/shapei078-bfh-200h.png"
+            src="/external/shapei078-415o-200h.png"
             alt="ShapeI078"
             className="gym-statistics-shape"
           />
@@ -174,31 +174,31 @@ const GymStatistics = (props) => {
           <div className="gym-statistics-connections">
             <div className="gym-statistics-battery">
               <img
-                src="/external/borderi078-fe26-200h.png"
+                src="/external/borderi078-nd1-200h.png"
                 alt="BorderI078"
                 className="gym-statistics-border"
               />
               <img
-                src="/external/capi078-d6ks.svg"
+                src="/external/capi078-fwgj.svg"
                 alt="CapI078"
                 className="gym-statistics-cap"
               />
               <img
-                src="/external/capacityi078-s6gi-200h.png"
+                src="/external/capacityi078-m34e-200h.png"
                 alt="CapacityI078"
                 className="gym-statistics-capacity"
               />
             </div>
             <div className="gym-statistics-wifi">
               <img
-                src="/external/wifii078-cgm.svg"
+                src="/external/wifii078-01re.svg"
                 alt="WifiI078"
                 className="gym-statistics-wifi1"
               />
             </div>
             <div className="gym-statistics-cellular-connection">
               <img
-                src="/external/cellularconnectioni078-hvsl.svg"
+                src="/external/cellularconnectioni078-k49.svg"
                 alt="CellularConnectionI078"
                 className="gym-statistics-cellular-connection1"
               />

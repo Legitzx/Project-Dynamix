@@ -1,0 +1,145 @@
+.scan-resultspass-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.scan-resultspass-scan-resultspass {
+  width: 100%;
+  height: 812px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-start;
+}
+.scan-resultspass-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 812px;
+  position: absolute;
+}
+.scan-resultspass-arrow-left-outlined {
+  top: 44px;
+  left: 329px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.scan-resultspass-card-small {
+  gap: 16px;
+  top: 136px;
+  left: 24px;
+  width: 328px;
+  display: flex;
+  padding: 16px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(26, 26, 26, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-white);
+}
+.scan-resultspass-frame {
+  gap: 16px;
+  display: flex;
+  padding: 0 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.scan-resultspass-frame1 {
+  gap: 8px;
+  width: 296px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.scan-resultspass-frame2 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.scan-resultspass-text {
+  color: var(--dl-color-default-black);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+.scan-resultspass-text2 {
+  color: var(--dl-color-default-gray100);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 20px;
+}
+.scan-resultspass-frame3 {
+  gap: 12px;
+  display: flex;
+  padding: 0 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.scan-resultspass-button-small {
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-black);
+}
+.scan-resultspass-min-width64 {
+  width: 64px;
+  height: 0.00009999999747378752px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.scan-resultspass-checkbox {
+  gap: 8px;
+  top: 152px;
+  left: 302px;
+  width: 43px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.scan-resultspass-checkbox1 {
+  width: 24px;
+  height: 24px;
+}
+.scan-resultspass-text6 {
+  top: 340px;
+  left: 162px;
+  color: var(--dl-color-default-black);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 24px;
+}
+.scan-resultspass-indicator {
+  top: 321px;
+  left: 41px;
+  width: 300px;
+  height: 4px;
+  position: absolute;
+}

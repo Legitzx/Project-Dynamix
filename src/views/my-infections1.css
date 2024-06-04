@@ -1,0 +1,435 @@
+.my-infections1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.my-infections1-my-infections {
+  width: 100%;
+  height: 812px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-infections1-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 812px;
+  position: absolute;
+}
+.my-infections1-text {
+  top: 109px;
+  left: 281px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-infections1-navigation-bar {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 88px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-infections1-background {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 88px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-infections1-background1 {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 88px;
+  position: absolute;
+}
+.my-infections1-title {
+  top: 44px;
+  left: 100px;
+  width: 175px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-infections1-text02 {
+  top: 2px;
+  left: 36px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-infections1-background2 {
+  top: 147px;
+  left: 0px;
+  width: 375px;
+  height: 0px;
+  position: absolute;
+}
+.my-infections1-background3 {
+  top: 203px;
+  left: 11px;
+  width: 375px;
+  height: 0px;
+  position: absolute;
+}
+.my-infections1-background4 {
+  top: 203px;
+  left: -11px;
+  width: 375px;
+  height: 0px;
+  position: absolute;
+}
+.my-infections1-background5 {
+  top: 259px;
+  left: 0px;
+  width: 375px;
+  height: 0px;
+  position: absolute;
+}
+.my-infections1-text04 {
+  top: 109px;
+  left: 45px;
+  color: rgba(0, 0, 0, 1);
+  width: 55px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-infections1-text06 {
+  top: 109px;
+  left: 147px;
+  color: rgba(0, 0, 0, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-infections1-text08 {
+  top: 166px;
+  left: 153px;
+  color: rgba(0, 0, 0, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-infections1-text10 {
+  top: 224px;
+  left: 166px;
+  color: rgba(0, 0, 0, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-infections1-text12 {
+  top: 166px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-infections1-frameiconcheck {
+  top: 162px;
+  left: 279px;
+  width: 27.196849822998047px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.my-infections1-vector {
+  top: 0px;
+  left: 0px;
+  width: 27px;
+  height: 22px;
+  position: absolute;
+}
+.my-infections1-frameiconxletter {
+  top: 162px;
+  left: 325px;
+  width: 22px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.my-infections1-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.my-infections1-text14 {
+  top: 224px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-infections1-tab-bar {
+  top: 729px;
+  left: 0px;
+  width: 375px;
+  height: 83px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-infections1-background6 {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 83px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-infections1-background7 {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 83px;
+  position: absolute;
+}
+.my-infections1-frame40-toolbarnew {
+  top: 14px;
+  left: 20px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-infections1-line-chart-outlined {
+  top: 8px;
+  left: 11px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.my-infections1-camera-filled {
+  top: 22px;
+  left: 172px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.my-infections1-vector2 {
+  top: 23px;
+  left: 316px;
+  width: 27px;
+  height: 28px;
+  position: absolute;
+}
+.my-infections1-shape {
+  top: 70px;
+  left: 120px;
+  width: 135px;
+  height: 5px;
+  position: absolute;
+  border-radius: 10px;
+}
+.my-infections1-status-bar {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-infections1-connections {
+  top: 15px;
+  left: 293px;
+  width: 68px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-infections1-battery {
+  top: 2px;
+  left: 43px;
+  width: 25px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-infections1-border {
+  top: 0.3333333432674408px;
+  left: 6.8209999280755e-13px;
+  width: 22px;
+  height: 11px;
+  opacity: 0.35;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2.6666667461395264px;
+}
+.my-infections1-cap {
+  top: 4px;
+  left: 23px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.my-infections1-capacity {
+  top: 2.3333332538604736px;
+  left: 2px;
+  width: 18px;
+  height: 7px;
+  position: absolute;
+  border-radius: 1.3333333730697632px;
+}
+.my-infections1-wifi {
+  top: 1px;
+  left: 20px;
+  width: 21px;
+  height: 15px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-infections1-wifi1 {
+  top: 1.3333333730697632px;
+  left: 2.6666667461395264px;
+  width: 15px;
+  height: 11px;
+  position: absolute;
+}
+.my-infections1-cellular-connection {
+  top: 2px;
+  left: 0px;
+  width: 18px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-infections1-cellular-connection1 {
+  top: 0.6666666865348816px;
+  left: 0.6666666865348816px;
+  width: 17px;
+  height: 11px;
+  position: absolute;
+}
+.my-infections1-time {
+  top: 8px;
+  left: 21px;
+  width: 56px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-infections1-text16 {
+  top: 6px;
+  left: 0.3333333432674408px;
+  color: rgba(0, 0, 0, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Semibold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

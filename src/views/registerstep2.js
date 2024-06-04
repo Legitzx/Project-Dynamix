@@ -12,7 +12,7 @@ const Registerstep2 = (props) => {
       </Helmet>
       <div className="registerstep2-registerstep2">
         <img
-          src="/external/rectangle0453-ll0w-900h.png"
+          src="/external/rectangle0453-9ps3-900h.png"
           alt="Rectangle0453"
           className="registerstep2-rectangle"
         />
@@ -23,7 +23,7 @@ const Registerstep2 = (props) => {
         </div>
         <div className="registerstep2-component">
           <img
-            src="/external/rectangle2i045-dw9-200h.png"
+            src="/external/rectangle2i045-8lo6-200h.png"
             alt="Rectangle2I045"
             className="registerstep2-rectangle2"
           />
@@ -33,7 +33,7 @@ const Registerstep2 = (props) => {
         </div>
         <button className="registerstep2-button">
           <img
-            src="/external/rectangle2i045-koeh-200h.png"
+            src="/external/rectangle2i045-eua-200h.png"
             alt="Rectangle2I045"
             className="registerstep2-rectangle21"
           />
@@ -64,13 +64,13 @@ const Registerstep2 = (props) => {
         </span>
         <div className="registerstep2-keyboard">
           <img
-            src="/external/background0458-q1xr-400w.png"
+            src="/external/background0458-dm4-400w.png"
             alt="Background0458"
             className="registerstep2-background"
           />
           <div className="registerstep2-home-indicator">
             <img
-              src="/external/shape0460-239n-200h.png"
+              src="/external/shape0460-m9tk-200h.png"
               alt="Shape0460"
               className="registerstep2-shape"
             />
@@ -78,21 +78,21 @@ const Registerstep2 = (props) => {
           <div className="registerstep2-keyboard1">
             <div className="registerstep2-dictation">
               <img
-                src="/external/mic0463-czib.svg"
+                src="/external/mic0463-xors.svg"
                 alt="Mic0463"
                 className="registerstep2-mic"
               />
             </div>
             <div className="registerstep2-emoji">
               <img
-                src="/external/emoji0471-ingp.svg"
+                src="/external/emoji0471-urdc.svg"
                 alt="Emoji0471"
                 className="registerstep2-emoji1"
               />
             </div>
             <div className="registerstep2-return">
               <img
-                src="/external/background0479-5acs-200h.png"
+                src="/external/background0479-dc2j-200h.png"
                 alt="Background0479"
                 className="registerstep2-background01"
               />
@@ -102,7 +102,7 @@ const Registerstep2 = (props) => {
             </div>
             <div className="registerstep2-spacebar">
               <img
-                src="/external/background0482-pded-200h.png"
+                src="/external/background0482-8hx-200h.png"
                 alt="Background0482"
                 className="registerstep2-background02"
               />
@@ -114,7 +114,7 @@ const Registerstep2 = (props) => {
               <div className="registerstep2-keys">
                 <div className="registerstep2-frame123">
                   <img
-                    src="/external/background0487-dzdt-200h.png"
+                    src="/external/background0487-oxpa-200h.png"
                     alt="Background0487"
                     className="registerstep2-background03"
                   />
@@ -124,18 +124,18 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-backspace">
                   <img
-                    src="/external/background0490-64un-200w.png"
+                    src="/external/background0490-i6pm-200w.png"
                     alt="Background0490"
                     className="registerstep2-background04"
                   />
                   <div className="registerstep2-backspace1">
                     <img
-                      src="/external/shape0492-1602.svg"
+                      src="/external/shape0492-0g.svg"
                       alt="Shape0492"
                       className="registerstep2-shape1"
                     />
                     <img
-                      src="/external/shape0493-z6z7.svg"
+                      src="/external/shape0493-vc88.svg"
                       alt="Shape0493"
                       className="registerstep2-shape2"
                     />
@@ -143,13 +143,13 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-shift">
                   <img
-                    src="/external/background0497-e928-200w.png"
+                    src="/external/background0497-y7wp-200w.png"
                     alt="Background0497"
                     className="registerstep2-background05"
                   />
                   <div className="registerstep2-shift1">
                     <img
-                      src="/external/combinedshape0499-g01.svg"
+                      src="/external/combinedshape0499-uii.svg"
                       alt="CombinedShape0499"
                       className="registerstep2-combined-shape"
                     />
@@ -157,7 +157,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet">
                   <img
-                    src="/external/background0503-n48-200w.png"
+                    src="/external/background0503-48g3-200w.png"
                     alt="Background0503"
                     className="registerstep2-background06"
                   />
@@ -165,7 +165,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet01">
                   <img
-                    src="/external/background0506-z71k-200w.png"
+                    src="/external/background0506-ou6t-200w.png"
                     alt="Background0506"
                     className="registerstep2-background07"
                   />
@@ -173,7 +173,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet02">
                   <img
-                    src="/external/background0509-ep2-200w.png"
+                    src="/external/background0509-g5gn-200w.png"
                     alt="Background0509"
                     className="registerstep2-background08"
                   />
@@ -181,7 +181,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet03">
                   <img
-                    src="/external/background0512-iprl-200w.png"
+                    src="/external/background0512-gi0k-200w.png"
                     alt="Background0512"
                     className="registerstep2-background09"
                   />
@@ -189,7 +189,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet04">
                   <img
-                    src="/external/background0515-we1-200w.png"
+                    src="/external/background0515-mpy-200w.png"
                     alt="Background0515"
                     className="registerstep2-background10"
                   />
@@ -197,7 +197,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet05">
                   <img
-                    src="/external/background0518-845-200w.png"
+                    src="/external/background0518-ioqh-200w.png"
                     alt="Background0518"
                     className="registerstep2-background11"
                   />
@@ -205,7 +205,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet06">
                   <img
-                    src="/external/background0521-a1j8-200w.png"
+                    src="/external/background0521-a2g8-200w.png"
                     alt="Background0521"
                     className="registerstep2-background12"
                   />
@@ -213,7 +213,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet07">
                   <img
-                    src="/external/background0524-r2oe-200w.png"
+                    src="/external/background0524-hpqb-200w.png"
                     alt="Background0524"
                     className="registerstep2-background13"
                   />
@@ -221,7 +221,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet08">
                   <img
-                    src="/external/background0527-tdk-200w.png"
+                    src="/external/background0527-sug4-200w.png"
                     alt="Background0527"
                     className="registerstep2-background14"
                   />
@@ -229,7 +229,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet09">
                   <img
-                    src="/external/background0530-hm5f-200w.png"
+                    src="/external/background0530-for-200w.png"
                     alt="Background0530"
                     className="registerstep2-background15"
                   />
@@ -237,7 +237,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet10">
                   <img
-                    src="/external/background0533-7t45-200w.png"
+                    src="/external/background0533-cios-200w.png"
                     alt="Background0533"
                     className="registerstep2-background16"
                   />
@@ -245,7 +245,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet11">
                   <img
-                    src="/external/background0536-c4qr-200w.png"
+                    src="/external/background0536-dozl-200w.png"
                     alt="Background0536"
                     className="registerstep2-background17"
                   />
@@ -253,7 +253,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet12">
                   <img
-                    src="/external/background0539-ey6r-200w.png"
+                    src="/external/background0539-i98f-200w.png"
                     alt="Background0539"
                     className="registerstep2-background18"
                   />
@@ -261,7 +261,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet13">
                   <img
-                    src="/external/background0542-896d-200w.png"
+                    src="/external/background0542-z72r-200w.png"
                     alt="Background0542"
                     className="registerstep2-background19"
                   />
@@ -269,7 +269,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet14">
                   <img
-                    src="/external/background0545-onjq-200w.png"
+                    src="/external/background0545-2uod-200w.png"
                     alt="Background0545"
                     className="registerstep2-background20"
                   />
@@ -277,7 +277,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet15">
                   <img
-                    src="/external/background0548-6so8-200w.png"
+                    src="/external/background0548-28go-200w.png"
                     alt="Background0548"
                     className="registerstep2-background21"
                   />
@@ -285,7 +285,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet16">
                   <img
-                    src="/external/background0551-jh3-200w.png"
+                    src="/external/background0551-g6z9-200w.png"
                     alt="Background0551"
                     className="registerstep2-background22"
                   />
@@ -293,7 +293,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet17">
                   <img
-                    src="/external/background0554-ojkr-200w.png"
+                    src="/external/background0554-ps0i-200w.png"
                     alt="Background0554"
                     className="registerstep2-background23"
                   />
@@ -301,7 +301,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet18">
                   <img
-                    src="/external/background0557-jjj-200w.png"
+                    src="/external/background0557-962-200w.png"
                     alt="Background0557"
                     className="registerstep2-background24"
                   />
@@ -309,7 +309,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet19">
                   <img
-                    src="/external/background0560-if5-200w.png"
+                    src="/external/background0560-nkr-200w.png"
                     alt="Background0560"
                     className="registerstep2-background25"
                   />
@@ -317,7 +317,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet20">
                   <img
-                    src="/external/background0563-39c-200w.png"
+                    src="/external/background0563-032b-200w.png"
                     alt="Background0563"
                     className="registerstep2-background26"
                   />
@@ -325,7 +325,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet21">
                   <img
-                    src="/external/background0566-ncpo-200w.png"
+                    src="/external/background0566-avsk-200w.png"
                     alt="Background0566"
                     className="registerstep2-background27"
                   />
@@ -333,7 +333,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet22">
                   <img
-                    src="/external/background0569-6abenb-200w.png"
+                    src="/external/background0569-wps-200w.png"
                     alt="Background0569"
                     className="registerstep2-background28"
                   />
@@ -341,7 +341,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet23">
                   <img
-                    src="/external/background0572-dsb-200w.png"
+                    src="/external/background0572-mvcj-200w.png"
                     alt="Background0572"
                     className="registerstep2-background29"
                   />
@@ -349,7 +349,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet24">
                   <img
-                    src="/external/background0575-4fj-200w.png"
+                    src="/external/background0575-p1r-200w.png"
                     alt="Background0575"
                     className="registerstep2-background30"
                   />
@@ -357,7 +357,7 @@ const Registerstep2 = (props) => {
                 </div>
                 <div className="registerstep2-alphabet25">
                   <img
-                    src="/external/background0578-k95t-200w.png"
+                    src="/external/background0578-dl8m-200w.png"
                     alt="Background0578"
                     className="registerstep2-background31"
                   />
@@ -368,7 +368,7 @@ const Registerstep2 = (props) => {
           </div>
         </div>
         <img
-          src="/external/union0765-ku3c.svg"
+          src="/external/union0765-3a2j.svg"
           alt="Union0765"
           className="registerstep2-union"
         />
@@ -376,31 +376,31 @@ const Registerstep2 = (props) => {
           <div className="registerstep2-connections">
             <div className="registerstep2-battery">
               <img
-                src="/external/borderi089-tyip-200h.png"
+                src="/external/borderi089-fr3-200h.png"
                 alt="BorderI089"
                 className="registerstep2-border"
               />
               <img
-                src="/external/capi089-f9ip.svg"
+                src="/external/capi089-h3t1k.svg"
                 alt="CapI089"
                 className="registerstep2-cap"
               />
               <img
-                src="/external/capacityi089-njkp-200h.png"
+                src="/external/capacityi089-9hg-200h.png"
                 alt="CapacityI089"
                 className="registerstep2-capacity"
               />
             </div>
             <div className="registerstep2-wifi">
               <img
-                src="/external/wifii089-328d.svg"
+                src="/external/wifii089-9i78.svg"
                 alt="WifiI089"
                 className="registerstep2-wifi1"
               />
             </div>
             <div className="registerstep2-cellular-connection">
               <img
-                src="/external/cellularconnectioni089-ii7.svg"
+                src="/external/cellularconnectioni089-9rkb.svg"
                 alt="CellularConnectionI089"
                 className="registerstep2-cellular-connection1"
               />

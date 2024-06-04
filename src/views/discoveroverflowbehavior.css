@@ -1,0 +1,336 @@
+.discoveroverflowbehavior-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.discoveroverflowbehavior-discoveroverflowbehavior {
+  width: 100%;
+  height: 812px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.discoveroverflowbehavior-rectangle3 {
+  top: -9px;
+  left: 0px;
+  width: 375px;
+  height: 812px;
+  position: absolute;
+}
+.discoveroverflowbehavior-button {
+  top: 233px;
+  left: 16px;
+  width: 343px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discoveroverflowbehavior-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 6px;
+}
+.discoveroverflowbehavior-text {
+  top: 19px;
+  left: 111.28742218017578px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Black;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discoveroverflowbehavior-button1 {
+  top: 317px;
+  left: 16px;
+  width: 343px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discoveroverflowbehavior-rectangle21 {
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 6px;
+}
+.discoveroverflowbehavior-text02 {
+  top: 19px;
+  left: 152.28741455078125px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Black;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discoveroverflowbehavior-register {
+  top: 76px;
+  left: 16px;
+  width: 148px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discoveroverflowbehavior-text04 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discoveroverflowbehavior-frameiconimage {
+  top: 247px;
+  left: 34px;
+  width: 27px;
+  height: 24.137950897216797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discoveroverflowbehavior-vector {
+  top: 0px;
+  left: 0px;
+  width: 27px;
+  height: 24px;
+  position: absolute;
+}
+.discoveroverflowbehavior-text06 {
+  top: 1695px;
+  left: 920px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Balsamiq Sans;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.discoveroverflowbehavior-tab-bar {
+  top: 729px;
+  left: 0px;
+  width: 375px;
+  height: 83px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discoveroverflowbehavior-background {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 83px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discoveroverflowbehavior-background1 {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 83px;
+  position: absolute;
+}
+.discoveroverflowbehavior-frame40-toolbarnew {
+  top: 14px;
+  left: 20px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discoveroverflowbehavior-line-chart-outlined {
+  top: 8px;
+  left: 11px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.discoveroverflowbehavior-camera-filled {
+  top: 22px;
+  left: 172px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.discoveroverflowbehavior-vector1 {
+  top: 23px;
+  left: 316px;
+  width: 27px;
+  height: 28px;
+  position: absolute;
+}
+.discoveroverflowbehavior-shape {
+  top: 70px;
+  left: 120px;
+  width: 135px;
+  height: 5px;
+  position: absolute;
+  border-radius: 10px;
+}
+.discoveroverflowbehavior-status-bar {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discoveroverflowbehavior-connections {
+  top: 15px;
+  left: 293px;
+  width: 68px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discoveroverflowbehavior-battery {
+  top: 2px;
+  left: 43px;
+  width: 25px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discoveroverflowbehavior-border {
+  top: 0.3333333432674408px;
+  left: 6.8209999280755e-13px;
+  width: 22px;
+  height: 11px;
+  opacity: 0.35;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2.6666667461395264px;
+}
+.discoveroverflowbehavior-cap {
+  top: 4px;
+  left: 23px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.discoveroverflowbehavior-capacity {
+  top: 2.3333332538604736px;
+  left: 2px;
+  width: 18px;
+  height: 7px;
+  position: absolute;
+  border-radius: 1.3333333730697632px;
+}
+.discoveroverflowbehavior-wifi {
+  top: 1px;
+  left: 20px;
+  width: 21px;
+  height: 15px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discoveroverflowbehavior-wifi1 {
+  top: 1.3333333730697632px;
+  left: 2.6666667461395264px;
+  width: 15px;
+  height: 11px;
+  position: absolute;
+}
+.discoveroverflowbehavior-cellular-connection {
+  top: 2px;
+  left: 0px;
+  width: 18px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discoveroverflowbehavior-cellular-connection1 {
+  top: 0.6666666865348816px;
+  left: 0.6666666865348816px;
+  width: 17px;
+  height: 11px;
+  position: absolute;
+}
+.discoveroverflowbehavior-time {
+  top: 8px;
+  left: 21px;
+  width: 56px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discoveroverflowbehavior-text08 {
+  top: 6px;
+  left: 0.3333333432674408px;
+  color: rgba(0, 0, 0, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Semibold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

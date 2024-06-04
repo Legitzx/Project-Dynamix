@@ -161,7 +161,7 @@
   border-style: solid;
   border-width: 2px;
 }
-.search-text02 {
+.search-text2 {
   top: 17px;
   left: 17px;
   color: rgba(0, 0, 0, 1);
@@ -196,7 +196,7 @@
   border-style: solid;
   border-width: 2px;
 }
-.search-text04 {
+.search-text4 {
   top: 17px;
   left: 17px;
   color: rgba(0, 0, 0, 1);
@@ -232,7 +232,7 @@
   border-width: 2px;
   border-radius: 6px;
 }
-.search-text06 {
+.search-text6 {
   top: 19px;
   left: 157.28741455078125px;
   color: rgba(255, 255, 255, 1);
@@ -250,21 +250,21 @@
 .search-register {
   top: 76px;
   left: 16px;
-  width: 148px;
-  height: 40px;
+  width: 336px;
+  height: 53px;
   display: flex;
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
 }
-.search-text08 {
-  color: rgba(0, 0, 0, 1);
+.search-text8 {
+  color: rgb(0, 0, 0);
   height: auto;
   position: absolute;
   font-size: 36px;
   font-style: Regular;
   text-align: left;
-  font-family: Comfortaa;
+  font-family: "Comfortaa";
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;

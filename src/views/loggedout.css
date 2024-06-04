@@ -1,0 +1,275 @@
+.loggedout-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.loggedout-loggedout {
+  width: 100%;
+  height: 812px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loggedout-status-bar {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.loggedout-connections {
+  top: 15px;
+  left: 293px;
+  width: 68px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.loggedout-battery {
+  top: 2px;
+  left: 43px;
+  width: 25px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.loggedout-border {
+  top: 0.3333333432674408px;
+  left: 6.8209999280755e-13px;
+  width: 22px;
+  height: 11px;
+  opacity: 0.35;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2.6666667461395264px;
+}
+.loggedout-cap {
+  top: 4px;
+  left: 23px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.loggedout-capacity {
+  top: 2.3333332538604736px;
+  left: 2px;
+  width: 18px;
+  height: 7px;
+  position: absolute;
+  border-radius: 1.3333333730697632px;
+}
+.loggedout-wifi {
+  top: 1px;
+  left: 20px;
+  width: 21px;
+  height: 15px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.loggedout-wifi1 {
+  top: 1.3333333730697632px;
+  left: 2.6666667461395264px;
+  width: 15px;
+  height: 11px;
+  position: absolute;
+}
+.loggedout-cellular-connection {
+  top: 2px;
+  left: 0px;
+  width: 18px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.loggedout-cellular-connection1 {
+  top: 0.6666666865348816px;
+  left: 0.6666666865348816px;
+  width: 17px;
+  height: 11px;
+  position: absolute;
+}
+.loggedout-time {
+  top: 8px;
+  left: 21px;
+  width: 56px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.loggedout-text {
+  top: 6px;
+  left: 0.3333333432674408px;
+  color: rgba(0, 0, 0, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Semibold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loggedout-text02 {
+  top: 729px;
+  left: 243px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loggedout-button {
+  top: 727px;
+  left: 16px;
+  width: 167px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.loggedout-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 167px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 6px;
+}
+.loggedout-text04 {
+  top: 19px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Black;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loggedout-button1 {
+  top: 727px;
+  left: 192px;
+  width: 167px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.loggedout-rectangle21 {
+  top: 0px;
+  left: 0px;
+  width: 167px;
+  height: 52px;
+  position: absolute;
+  border-radius: 6px;
+}
+.loggedout-text06 {
+  top: 19px;
+  left: 51px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Black;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loggedout-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 707px;
+  position: absolute;
+}
+.loggedout-shape {
+  top: 799px;
+  left: 120px;
+  width: 135px;
+  height: 5px;
+  position: absolute;
+  border-radius: 10px;
+}
+.loggedout-group {
+  top: 136px;
+  left: 39px;
+  width: 255px;
+  height: 108px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: flex-start;
+}
+.loggedout-text08 {
+  left: 45px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loggedout-union {
+  top: -10px;
+  left: 16px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+}
+.loggedout-union1 {
+  top: 112px;
+  left: 44px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+}

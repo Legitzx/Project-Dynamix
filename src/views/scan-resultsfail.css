@@ -12,8 +12,9 @@
   display: flex;
   overflow: hidden;
   position: relative;
-  align-items: flex-start;
+  align-items: center;
   flex-shrink: 0;
+  justify-content: flex-start;
 }
 .scan-resultsfail-rectangle2 {
   top: 0px;
@@ -120,44 +121,6 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.scan-resultsfail-progress-indicator-linear {
-  top: 324px;
-  left: 24px;
-  width: 328px;
-  height: 4px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 0;
-}
-.scan-resultsfail-track {
-  top: 0px;
-  left: 0px;
-  width: 328px;
-  height: 4px;
-  position: absolute;
-}
-.scan-resultsfail-indicator {
-  top: 0px;
-  left: 0px;
-  width: 144px;
-  height: 4px;
-  position: absolute;
-}
-.scan-resultsfail-indicator1 {
-  top: 324px;
-  left: 168px;
-  width: 144px;
-  height: 4px;
-  position: absolute;
-}
-.scan-resultsfail-indicator2 {
-  top: 328px;
-  left: 312px;
-  width: 48px;
-  height: 4px;
-  position: absolute;
-}
 .scan-resultsfail-text4 {
   top: 344px;
   left: 162px;
@@ -185,4 +148,11 @@
   align-self: stretch;
   text-align: left;
   line-height: 20px;
+}
+.scan-resultsfail-indicator {
+  top: 324px;
+  left: 41px;
+  width: 300px;
+  height: 4px;
+  position: absolute;
 }

@@ -140,19 +140,20 @@
   height: 123.1875px;
   display: flex;
   position: absolute;
-  align-items: flex-start;
+  align-items: flex-end;
   flex-shrink: 1;
+  justify-content: center;
 }
 .gym-statistics-fill {
-  top: 0.000002175569534301758px;
-  left: 373.9999694824219px;
+  top: -2px;
+  left: -1px;
   width: 374px;
   height: 123px;
   position: absolute;
 }
 .gym-statistics-stroke {
-  top: 0px;
-  left: 373.9999694824219px;
+  top: -3px;
+  left: -1px;
   width: 374px;
   height: 120px;
   position: absolute;
@@ -224,8 +225,8 @@
   position: absolute;
 }
 .gym-statistics-ellipse {
-  top: 43px;
-  left: 0px;
+  top: 37px;
+  left: -1px;
   width: 12px;
   height: 12px;
   position: absolute;

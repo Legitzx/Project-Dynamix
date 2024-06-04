@@ -12,13 +12,13 @@ const Login = (props) => {
       </Helmet>
       <div className="login-login">
         <img
-          src="/external/rectangle0324-u7ka-900h.png"
+          src="/external/rectangle0324-yevl-900h.png"
           alt="Rectangle0324"
           className="login-rectangle"
         />
         <div className="login-component">
           <img
-            src="/external/rectangle2i032-izbg-200h.png"
+            src="/external/rectangle2i032-j0tf-200h.png"
             alt="Rectangle2I032"
             className="login-rectangle2"
           />
@@ -28,7 +28,7 @@ const Login = (props) => {
         </div>
         <div className="login-component1">
           <img
-            src="/external/rectangle2i032-mgt4n-200h.png"
+            src="/external/rectangle2i032-ht2-200h.png"
             alt="Rectangle2I032"
             className="login-rectangle21"
           />
@@ -38,7 +38,7 @@ const Login = (props) => {
         </div>
         <button className="login-button">
           <img
-            src="/external/rectangle2i032-zv8s-200h.png"
+            src="/external/rectangle2i032-3kh4-200h.png"
             alt="Rectangle2I032"
             className="login-rectangle22"
           />
@@ -48,13 +48,13 @@ const Login = (props) => {
         </button>
         <div className="login-keyboard">
           <img
-            src="/external/background0329-qrhp-400w.png"
+            src="/external/background0329-282d-400w.png"
             alt="Background0329"
             className="login-background"
           />
           <div className="login-home-indicator">
             <img
-              src="/external/shape0331-zh68-200h.png"
+              src="/external/shape0331-hda-200h.png"
               alt="Shape0331"
               className="login-shape"
             />
@@ -62,21 +62,21 @@ const Login = (props) => {
           <div className="login-keyboard1">
             <div className="login-dictation">
               <img
-                src="/external/mic0334-6dhw.svg"
+                src="/external/mic0334-q3up.svg"
                 alt="Mic0334"
                 className="login-mic"
               />
             </div>
             <div className="login-emoji">
               <img
-                src="/external/emoji0342-rza.svg"
+                src="/external/emoji0342-11vf.svg"
                 alt="Emoji0342"
                 className="login-emoji1"
               />
             </div>
             <div className="login-return">
               <img
-                src="/external/background0350-slm-200h.png"
+                src="/external/background0350-rv3a-200h.png"
                 alt="Background0350"
                 className="login-background01"
               />
@@ -86,7 +86,7 @@ const Login = (props) => {
             </div>
             <div className="login-spacebar">
               <img
-                src="/external/background0353-7d06p-200h.png"
+                src="/external/background0353-qyr5-200h.png"
                 alt="Background0353"
                 className="login-background02"
               />
@@ -98,7 +98,7 @@ const Login = (props) => {
               <div className="login-keys">
                 <div className="login-frame123">
                   <img
-                    src="/external/background0358-5bj-200h.png"
+                    src="/external/background0358-mczk-200h.png"
                     alt="Background0358"
                     className="login-background03"
                   />
@@ -108,18 +108,18 @@ const Login = (props) => {
                 </div>
                 <div className="login-backspace">
                   <img
-                    src="/external/background0361-lsl5-200w.png"
+                    src="/external/background0361-35tl-200w.png"
                     alt="Background0361"
                     className="login-background04"
                   />
                   <div className="login-backspace1">
                     <img
-                      src="/external/shape0363-bwi.svg"
+                      src="/external/shape0363-f5fq.svg"
                       alt="Shape0363"
                       className="login-shape1"
                     />
                     <img
-                      src="/external/shape0364-kwdt.svg"
+                      src="/external/shape0364-ym2s.svg"
                       alt="Shape0364"
                       className="login-shape2"
                     />
@@ -127,13 +127,13 @@ const Login = (props) => {
                 </div>
                 <div className="login-shift">
                   <img
-                    src="/external/background0368-nwc-200w.png"
+                    src="/external/background0368-yd8-200w.png"
                     alt="Background0368"
                     className="login-background05"
                   />
                   <div className="login-shift1">
                     <img
-                      src="/external/combinedshape0370-4ipc.svg"
+                      src="/external/combinedshape0370-5n0h.svg"
                       alt="CombinedShape0370"
                       className="login-combined-shape"
                     />
@@ -141,7 +141,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet">
                   <img
-                    src="/external/background0374-x7zp-200w.png"
+                    src="/external/background0374-diw-200w.png"
                     alt="Background0374"
                     className="login-background06"
                   />
@@ -149,7 +149,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet01">
                   <img
-                    src="/external/background0377-pd3-200w.png"
+                    src="/external/background0377-o32i-200w.png"
                     alt="Background0377"
                     className="login-background07"
                   />
@@ -157,7 +157,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet02">
                   <img
-                    src="/external/background0380-48w-200w.png"
+                    src="/external/background0380-ozpm-200w.png"
                     alt="Background0380"
                     className="login-background08"
                   />
@@ -165,7 +165,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet03">
                   <img
-                    src="/external/background0383-uyx8-200w.png"
+                    src="/external/background0383-xei-200w.png"
                     alt="Background0383"
                     className="login-background09"
                   />
@@ -173,7 +173,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet04">
                   <img
-                    src="/external/background0386-xr3-200w.png"
+                    src="/external/background0386-czpu-200w.png"
                     alt="Background0386"
                     className="login-background10"
                   />
@@ -181,7 +181,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet05">
                   <img
-                    src="/external/background0389-os9-200w.png"
+                    src="/external/background0389-93ec-200w.png"
                     alt="Background0389"
                     className="login-background11"
                   />
@@ -189,7 +189,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet06">
                   <img
-                    src="/external/background0392-d58j-200w.png"
+                    src="/external/background0392-p83b-200w.png"
                     alt="Background0392"
                     className="login-background12"
                   />
@@ -197,7 +197,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet07">
                   <img
-                    src="/external/background0395-gqqv-200w.png"
+                    src="/external/background0395-czv-200w.png"
                     alt="Background0395"
                     className="login-background13"
                   />
@@ -205,7 +205,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet08">
                   <img
-                    src="/external/background0398-iz88-200w.png"
+                    src="/external/background0398-aa1c-200w.png"
                     alt="Background0398"
                     className="login-background14"
                   />
@@ -213,7 +213,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet09">
                   <img
-                    src="/external/background0401-5lf8-200w.png"
+                    src="/external/background0401-yo9c-200w.png"
                     alt="Background0401"
                     className="login-background15"
                   />
@@ -221,7 +221,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet10">
                   <img
-                    src="/external/background0404-gxkg-200w.png"
+                    src="/external/background0404-7cea-200w.png"
                     alt="Background0404"
                     className="login-background16"
                   />
@@ -229,7 +229,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet11">
                   <img
-                    src="/external/background0407-438-200w.png"
+                    src="/external/background0407-h6gr-200w.png"
                     alt="Background0407"
                     className="login-background17"
                   />
@@ -237,7 +237,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet12">
                   <img
-                    src="/external/background0410-u6e-200w.png"
+                    src="/external/background0410-y6cs-200w.png"
                     alt="Background0410"
                     className="login-background18"
                   />
@@ -245,7 +245,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet13">
                   <img
-                    src="/external/background0413-ut37-200w.png"
+                    src="/external/background0413-dgvs-200w.png"
                     alt="Background0413"
                     className="login-background19"
                   />
@@ -253,7 +253,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet14">
                   <img
-                    src="/external/background0416-4ab-200w.png"
+                    src="/external/background0416-51fe-200w.png"
                     alt="Background0416"
                     className="login-background20"
                   />
@@ -261,7 +261,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet15">
                   <img
-                    src="/external/background0419-9alf-200w.png"
+                    src="/external/background0419-jrls-200w.png"
                     alt="Background0419"
                     className="login-background21"
                   />
@@ -269,7 +269,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet16">
                   <img
-                    src="/external/background0422-vaeg-200w.png"
+                    src="/external/background0422-kjf-200w.png"
                     alt="Background0422"
                     className="login-background22"
                   />
@@ -277,7 +277,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet17">
                   <img
-                    src="/external/background0425-k11-200w.png"
+                    src="/external/background0425-ifn-200w.png"
                     alt="Background0425"
                     className="login-background23"
                   />
@@ -285,7 +285,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet18">
                   <img
-                    src="/external/background0428-ihja-200w.png"
+                    src="/external/background0428-xy6-200w.png"
                     alt="Background0428"
                     className="login-background24"
                   />
@@ -293,7 +293,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet19">
                   <img
-                    src="/external/background0431-dqfr-200w.png"
+                    src="/external/background0431-sy4r-200w.png"
                     alt="Background0431"
                     className="login-background25"
                   />
@@ -301,7 +301,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet20">
                   <img
-                    src="/external/background0434-lwe-200w.png"
+                    src="/external/background0434-755w-200w.png"
                     alt="Background0434"
                     className="login-background26"
                   />
@@ -309,7 +309,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet21">
                   <img
-                    src="/external/background0437-3e4-200w.png"
+                    src="/external/background0437-984-200w.png"
                     alt="Background0437"
                     className="login-background27"
                   />
@@ -317,7 +317,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet22">
                   <img
-                    src="/external/background0440-8he9-200w.png"
+                    src="/external/background0440-jvii-200w.png"
                     alt="Background0440"
                     className="login-background28"
                   />
@@ -325,7 +325,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet23">
                   <img
-                    src="/external/background0443-pu5-200w.png"
+                    src="/external/background0443-firq-200w.png"
                     alt="Background0443"
                     className="login-background29"
                   />
@@ -333,7 +333,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet24">
                   <img
-                    src="/external/background0446-t5x9-200w.png"
+                    src="/external/background0446-ylim-200w.png"
                     alt="Background0446"
                     className="login-background30"
                   />
@@ -341,7 +341,7 @@ const Login = (props) => {
                 </div>
                 <div className="login-alphabet25">
                   <img
-                    src="/external/background0449-v45o-200w.png"
+                    src="/external/background0449-6sr7-200w.png"
                     alt="Background0449"
                     className="login-background31"
                   />
@@ -357,7 +357,7 @@ const Login = (props) => {
           </span>
         </div>
         <img
-          src="/external/union0759-ch7t.svg"
+          src="/external/union0759-o2v.svg"
           alt="Union0759"
           className="login-union"
         />
@@ -365,31 +365,31 @@ const Login = (props) => {
           <div className="login-connections">
             <div className="login-battery">
               <img
-                src="/external/borderi067-2cbk-200h.png"
+                src="/external/borderi067-wiso-200h.png"
                 alt="BorderI067"
                 className="login-border"
               />
               <img
-                src="/external/capi067-4z85.svg"
+                src="/external/capi067-vr5o.svg"
                 alt="CapI067"
                 className="login-cap"
               />
               <img
-                src="/external/capacityi067-7jb-200h.png"
+                src="/external/capacityi067-7czj-200h.png"
                 alt="CapacityI067"
                 className="login-capacity"
               />
             </div>
             <div className="login-wifi">
               <img
-                src="/external/wifii067-mcj9.svg"
+                src="/external/wifii067-wlz.svg"
                 alt="WifiI067"
                 className="login-wifi1"
               />
             </div>
             <div className="login-cellular-connection">
               <img
-                src="/external/cellularconnectioni067-gmj9.svg"
+                src="/external/cellularconnectioni067-8ii.svg"
                 alt="CellularConnectionI067"
                 className="login-cellular-connection1"
               />

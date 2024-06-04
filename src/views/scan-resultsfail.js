@@ -12,12 +12,12 @@ const ScanResultsfail = (props) => {
       </Helmet>
       <div className="scan-resultsfail-scan-resultsfail">
         <img
-          src="/external/rectangle22111-is4t-900h.png"
+          src="/external/rectangle22111-fje-900h.png"
           alt="Rectangle22111"
           className="scan-resultsfail-rectangle2"
         />
         <img
-          src="/external/arrowleftoutlined2111-fahe.svg"
+          src="/external/arrowleftoutlined2111-8mx8e.svg"
           alt="ArrowLeftOutlined2111"
           className="scan-resultsfail-arrow-left-outlined"
         />
@@ -41,39 +41,22 @@ const ScanResultsfail = (props) => {
           </div>
         </div>
         <div className="scan-resultsfail-checkbox"></div>
-        <div className="scan-resultsfail-progress-indicator-linear">
-          <img
-            src="/external/tracki211-723m-200h.png"
-            alt="TrackI211"
-            className="scan-resultsfail-track"
-          />
-          <img
-            src="/external/indicatori211-l37n-200h.png"
-            alt="IndicatorI211"
-            className="scan-resultsfail-indicator"
-          />
-        </div>
-        <img
-          src="/external/indicator2111-28ir-200h.png"
-          alt="Indicator2111"
-          className="scan-resultsfail-indicator1"
-        />
-        <img
-          src="/external/indicator2111-e98-200h.png"
-          alt="Indicator2111"
-          className="scan-resultsfail-indicator2"
-        />
         <span className="scan-resultsfail-text4 AndroidH6">
           <span>100%</span>
         </span>
         <img
-          src="/external/close2111-xmrc.svg"
+          src="/external/close2111-adn.svg"
           alt="close2111"
           className="scan-resultsfail-close"
         />
         <span className="scan-resultsfail-text6 AndroidBody2">
           <span>Your gym has been notified.</span>
         </span>
+        <img
+          src="/external/indicator2111-ncm2-200h.png"
+          alt="Indicator2111"
+          className="scan-resultsfail-indicator"
+        />
       </div>
     </div>
   )
