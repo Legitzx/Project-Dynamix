@@ -97,22 +97,22 @@ const Search = (props) => {
               className="search-background1"
             />
             <div className="search-frame40-toolbarnew">
-              <img
+            <a href="gym-statistics"><img
                 src="/external/linechartoutlinedi213-awf.svg"
                 alt="LineChartOutlinedI213"
                 className="search-line-chart-outlined"
-              />
+              /></a>
             </div>
-            <img
+            <a href="scan"><img
               src="/external/camerafilledi213-juin.svg"
               alt="CameraFilledI213"
               className="search-camera-filled"
-            />
-            <img
+            /></a>
+            <a href="my-infections"><img
               src="/external/vectori213-tgt.svg"
               alt="VectorI213"
               className="search-vector"
-            />
+            /></a>
           </div>
           <img
             src="/external/shapei213-1lsl-200h.png"

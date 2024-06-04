@@ -107,22 +107,24 @@ const MyInfections = (props) => {
               className="my-infections-background7"
             />
             <div className="my-infections-frame40-toolbarnew">
-              <img
+              <a href="gym-statistics"><img
                 src="/external/linechartoutlinedi078-047v.svg"
                 alt="LineChartOutlinedI078"
                 className="my-infections-line-chart-outlined"
-              />
+              /></a>
+              
             </div>
-            <img
+            <a href="scan"><img
               src="/external/camerafilledi078-g24q.svg"
               alt="CameraFilledI078"
               className="my-infections-camera-filled"
-            />
-            <img
+            /></a>
+
+            <a href="my-infections"><img
               src="/external/vectori078-fvv.svg"
               alt="VectorI078"
               className="my-infections-vector4"
-            />
+            /></a>
           </div>
           <img
             src="/external/shapei078-2k1wj-200h.png"

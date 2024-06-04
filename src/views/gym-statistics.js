@@ -147,22 +147,27 @@ const GymStatistics = (props) => {
               className="gym-statistics-background8"
             />
             <div className="gym-statistics-frame40-toolbarnew">
-              <img
+
+            <a href="gym-statistics"><img
                 src="/external/linechartoutlinedi078-o4mk.svg"
                 alt="LineChartOutlinedI078"
                 className="gym-statistics-line-chart-outlined"
-              />
+              /></a>
+
             </div>
-            <img
+
+            <a href="scan"><img
               src="/external/camerafilledi078-2la.svg"
               alt="CameraFilledI078"
               className="gym-statistics-camera-filled"
-            />
-            <img
+            /></a>
+
+            <a href="my-infections"><img
               src="/external/vectori078-6t49.svg"
               alt="VectorI078"
               className="gym-statistics-vector"
-            />
+            /></a>
+
           </div>
           <img
             src="/external/shapei078-415o-200h.png"

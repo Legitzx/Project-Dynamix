@@ -59,22 +59,23 @@ const Discoveroverflowbehavior = (props) => {
               className="discoveroverflowbehavior-background1"
             />
             <div className="discoveroverflowbehavior-frame40-toolbarnew">
-              <img
+            <a href="gym-statistics"><img
                 src="/external/linechartoutlined2111-xpkt.svg"
                 alt="LineChartOutlined2111"
                 className="discoveroverflowbehavior-line-chart-outlined"
-              />
+              /></a>
             </div>
-            <img
+            <a href="scan"><img
               src="/external/camerafilled2112-ionm.svg"
               alt="CameraFilled2112"
               className="discoveroverflowbehavior-camera-filled"
-            />
-            <img
+            /></a>
+
+            <a href="my-infections"><img
               src="/external/vector2112-sm44.svg"
               alt="Vector2112"
               className="discoveroverflowbehavior-vector1"
-            />
+            /></a>
           </div>
           <img
             src="/external/shape0591-co5-200h.png"

@@ -33,7 +33,7 @@ const App = () => {
         <Route
           component={Discoveroverflowbehavior}
           exact
-          path="/discoveroverflowbehavior"
+          path="/scan"
         />
         <Route component={Search} exact path="/search" />
         <Route component={GymStatistics} exact path="/gym-statistics" />
