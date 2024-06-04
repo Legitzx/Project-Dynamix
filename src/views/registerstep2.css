@@ -1,0 +1,1405 @@
+.registerstep2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.registerstep2-registerstep2 {
+  width: 100%;
+  height: 812px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.registerstep2-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 812px;
+  position: absolute;
+}
+.registerstep2-register {
+  top: 104px;
+  left: 16px;
+  width: 148px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-component {
+  top: 176px;
+  left: 16px;
+  width: 343px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.registerstep2-text02 {
+  top: 17px;
+  left: 17px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-button {
+  top: 244px;
+  left: 16px;
+  width: 343px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-rectangle21 {
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 6px;
+}
+.registerstep2-text04 {
+  top: 19px;
+  left: 143.28741455078125px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Black;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-text06 {
+  top: 328px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 343px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-text07 {
+  text-decoration: NONE;
+}
+.registerstep2-text08 {
+  text-decoration: UNDERLINE;
+}
+.registerstep2-text09 {
+  text-decoration: NONE;
+}
+.registerstep2-text10 {
+  text-decoration: UNDERLINE;
+}
+.registerstep2-keyboard {
+  top: 521px;
+  left: 0px;
+  width: 375px;
+  height: 291px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 291px;
+  position: absolute;
+}
+.registerstep2-home-indicator {
+  top: 257px;
+  left: 0px;
+  width: 375px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-shape {
+  top: 21px;
+  left: 120px;
+  width: 135px;
+  height: 5px;
+  position: absolute;
+  border-radius: 10px;
+}
+.registerstep2-keyboard1 {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 264px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.registerstep2-dictation {
+  top: 239px;
+  left: 328px;
+  width: 15px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-mic {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 25px;
+  position: absolute;
+}
+.registerstep2-emoji {
+  top: 237px;
+  left: 26px;
+  width: 26px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-emoji1 {
+  top: 0px;
+  left: 0px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+}
+.registerstep2-return {
+  top: 170px;
+  left: 285px;
+  width: 87px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background01 {
+  top: 0px;
+  left: 0px;
+  width: 87px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text11 {
+  top: 11px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-spacebar {
+  top: 170px;
+  left: 96px;
+  width: 183px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background02 {
+  top: 0px;
+  left: 0px;
+  width: 183px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text13 {
+  top: 11px;
+  left: 71px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-lowercase {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 212px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-keys {
+  top: 8px;
+  left: 3px;
+  width: 369px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.registerstep2-frame123 {
+  top: 162px;
+  left: 0px;
+  width: 87px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background03 {
+  top: 0px;
+  left: 0px;
+  width: 87px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text15 {
+  top: 12px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-backspace {
+  top: 108px;
+  left: 327px;
+  width: 42px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background04 {
+  top: 0px;
+  left: 0px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-backspace1 {
+  top: 13px;
+  left: 10px;
+  width: 22.975961685180664px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.registerstep2-shape1 {
+  top: -1.4210854715202004e-14px;
+  left: 0px;
+  width: 23px;
+  height: 17px;
+  position: absolute;
+}
+.registerstep2-shape2 {
+  top: 5.101033687591553px;
+  left: 10.467824935913086px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.registerstep2-shift {
+  top: 108px;
+  left: 0px;
+  width: 42px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background05 {
+  top: 0px;
+  left: 0px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-shift1 {
+  top: 12.333334922790527px;
+  left: 11.331342697143555px;
+  width: 19.65454864501953px;
+  height: 17.22044563293457px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.registerstep2-combined-shape {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 17px;
+  position: absolute;
+}
+.registerstep2-alphabet {
+  top: 108px;
+  left: 282px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background06 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text17 {
+  top: 3px;
+  left: 6px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet01 {
+  top: 108px;
+  left: 244px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background07 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text18 {
+  top: 3px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet02 {
+  top: 108px;
+  left: 207px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background08 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text19 {
+  top: 3px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet03 {
+  top: 108px;
+  left: 169px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background09 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text20 {
+  top: 3px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet04 {
+  top: 108px;
+  left: 131px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background10 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text21 {
+  top: 3px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet05 {
+  top: 108px;
+  left: 94px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background11 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text22 {
+  top: 3px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet06 {
+  top: 108px;
+  left: 56px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background12 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text23 {
+  top: 3px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet07 {
+  top: 54px;
+  left: 319px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background13 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text24 {
+  top: 3px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet08 {
+  top: 54px;
+  left: 281px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background14 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text25 {
+  top: 3px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet09 {
+  top: 54px;
+  left: 244px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background15 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text26 {
+  top: 3px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet10 {
+  top: 54px;
+  left: 206px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background16 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text27 {
+  top: 3px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet11 {
+  top: 54px;
+  left: 169px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background17 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text28 {
+  top: 3px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet12 {
+  top: 54px;
+  left: 131px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background18 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text29 {
+  top: 3px;
+  left: 12px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet13 {
+  top: 54px;
+  left: 94px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background19 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text30 {
+  top: 3px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet14 {
+  top: 54px;
+  left: 56px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background20 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text31 {
+  top: 3px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet15 {
+  top: 54px;
+  left: 19px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background21 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text32 {
+  top: 3px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet16 {
+  top: 0px;
+  left: 338px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background22 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text33 {
+  top: 3px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet17 {
+  top: 0px;
+  left: 300px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background23 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text34 {
+  top: 3px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet18 {
+  top: 0px;
+  left: 263px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background24 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text35 {
+  top: 3px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet19 {
+  top: 0px;
+  left: 225px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background25 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text36 {
+  top: 3px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet20 {
+  top: 0px;
+  left: 188px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background26 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text37 {
+  top: 3px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet21 {
+  top: 0px;
+  left: 150px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background27 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text38 {
+  top: 3px;
+  left: 12px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet22 {
+  top: 0px;
+  left: 113px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background28 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text39 {
+  top: 3px;
+  left: 12px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet23 {
+  top: 0px;
+  left: 75px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background29 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text40 {
+  top: 3px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet24 {
+  top: 0px;
+  left: 38px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background30 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text41 {
+  top: 3px;
+  left: 7px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-alphabet25 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-background31 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.registerstep2-text42 {
+  top: 3px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Light;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registerstep2-union {
+  top: 60px;
+  left: 16px;
+  width: 12px;
+  height: 11px;
+  position: absolute;
+}
+.registerstep2-status-bar {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-connections {
+  top: 15px;
+  left: 293px;
+  width: 68px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-battery {
+  top: 2px;
+  left: 43px;
+  width: 25px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-border {
+  top: 0.3333333432674408px;
+  left: 6.8209999280755e-13px;
+  width: 22px;
+  height: 11px;
+  opacity: 0.35;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2.6666667461395264px;
+}
+.registerstep2-cap {
+  top: 4px;
+  left: 23px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.registerstep2-capacity {
+  top: 2.3333332538604736px;
+  left: 2px;
+  width: 18px;
+  height: 7px;
+  position: absolute;
+  border-radius: 1.3333333730697632px;
+}
+.registerstep2-wifi {
+  top: 1px;
+  left: 20px;
+  width: 21px;
+  height: 15px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-wifi1 {
+  top: 1.3333333730697632px;
+  left: 2.6666667461395264px;
+  width: 15px;
+  height: 11px;
+  position: absolute;
+}
+.registerstep2-cellular-connection {
+  top: 2px;
+  left: 0px;
+  width: 18px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-cellular-connection1 {
+  top: 0.6666666865348816px;
+  left: 0.6666666865348816px;
+  width: 17px;
+  height: 11px;
+  position: absolute;
+}
+.registerstep2-time {
+  top: 8px;
+  left: 21px;
+  width: 56px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registerstep2-text43 {
+  top: 6px;
+  left: 0.3333333432674408px;
+  color: rgba(0, 0, 0, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Semibold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
