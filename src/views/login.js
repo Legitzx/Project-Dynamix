@@ -1,8 +1,8 @@
-import React from 'react'
+import React from "react";
 
-import { Helmet } from 'react-helmet'
+import { Helmet } from "react-helmet";
 
-import './login.css'
+import "./login.css";
 
 const Login = (props) => {
   return (
@@ -17,24 +17,18 @@ const Login = (props) => {
           className="login-rectangle"
         />
         <div className="login-component">
-          <img
-            src="/external/rectangle2i032-j0tf-200h.png"
-            alt="Rectangle2I032"
+          <input
+            type="email"
+            placeholder="Email"
             className="login-rectangle2"
           />
-          <span className="login-text">
-            <span>jane@example.com</span>
-          </span>
         </div>
         <div className="login-component1">
-          <img
-            src="/external/rectangle2i032-ht2-200h.png"
-            alt="Rectangle2I032"
+          <input
+            type="password"
+            placeholder="Password"
             className="login-rectangle21"
           />
-          <span className="login-text02">
-            <span>••••••••••••</span>
-          </span>
         </div>
         <a className="login-button" href="/scan">
           <img
@@ -353,7 +347,7 @@ const Login = (props) => {
         </div>
         <div className="login-register">
           <span className="login-text38">
-            <span>Log in</span>
+            <span>Log In</span>
           </span>
         </div>
         <img
@@ -361,49 +355,9 @@ const Login = (props) => {
           alt="Union0759"
           className="login-union"
         />
-        <div className="login-status-bar">
-          <div className="login-connections">
-            <div className="login-battery">
-              <img
-                src="/external/borderi067-wiso-200h.png"
-                alt="BorderI067"
-                className="login-border"
-              />
-              <img
-                src="/external/capi067-vr5o.svg"
-                alt="CapI067"
-                className="login-cap"
-              />
-              <img
-                src="/external/capacityi067-7czj-200h.png"
-                alt="CapacityI067"
-                className="login-capacity"
-              />
-            </div>
-            <div className="login-wifi">
-              <img
-                src="/external/wifii067-wlz.svg"
-                alt="WifiI067"
-                className="login-wifi1"
-              />
-            </div>
-            <div className="login-cellular-connection">
-              <img
-                src="/external/cellularconnectioni067-8ii.svg"
-                alt="CellularConnectionI067"
-                className="login-cellular-connection1"
-              />
-            </div>
-          </div>
-          <div className="login-time">
-            <span className="login-text40">
-              <span>9:27</span>
-            </span>
-          </div>
-        </div>
       </div>
     </div>
   );
-}
+};
 
-export default Login
+export default Login;

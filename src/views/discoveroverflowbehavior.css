@@ -68,6 +68,25 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
+.discoveroverflowbehavior-input1 {
+  /* make the border black */
+  border-color: rgba(0, 0, 0, 1);
+  /* make the border solid */
+  border-style: solid;
+  /* make the border width 2px */
+  border-width: 2px;
+  /* make the border radius 6px */
+  border-radius: 6px;
+
+  top: 450px;
+  left: 16px;
+  width: 343px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
 .discoveroverflowbehavior-rectangle21 {
   top: 0px;
   left: 0px;

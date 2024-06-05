@@ -44,12 +44,12 @@ const Discoveroverflowbehavior = (props) => {
               className="discoveroverflowbehavior-rectangle2"
             />
             <span className="discoveroverflowbehavior-text">
-              <span> {fileName ? `Selected file: ${fileName} ` : `UPLOAD IMAGE`}</span>
+              <span>
+                {" "}
+                {fileName ? `Selected file: ${fileName} ` : `UPLOAD IMAGE`}
+              </span>
             </span>
           </button>
-          {/* <span className="discoveroverflowbehavior-rectangle3">
-            Selected file: {fileName}
-          </span> */}
         </div>
         <a className="discoveroverflowbehavior-button1" href="scan-resultsfail">
           <img
@@ -61,6 +61,15 @@ const Discoveroverflowbehavior = (props) => {
             <span>SCAN</span>
           </span>
         </a>
+        {/* this text area is meant to be where patients describe their symptoms so add a title above */}
+        {/* <span className="discoveroverflowbehavior-text03">
+          <span>Describe your symptoms</span>
+        </span> */}
+        <textarea
+          placeholder="Describe your symptoms (optional)"
+          type="text"
+          className="discoveroverflowbehavior-input1"
+        />
         <div className="discoveroverflowbehavior-register">
           <span className="discoveroverflowbehavior-text04">
             <span>Scan</span>
@@ -84,69 +93,35 @@ const Discoveroverflowbehavior = (props) => {
               className="discoveroverflowbehavior-background1"
             />
             <div className="discoveroverflowbehavior-frame40-toolbarnew">
-            <a href="gym-statistics"><img
-                src="/external/linechartoutlined2111-xpkt.svg"
-                alt="LineChartOutlined2111"
-                className="discoveroverflowbehavior-line-chart-outlined"
-              /></a>
+              <a href="gym-statistics">
+                <img
+                  src="/external/linechartoutlined2111-xpkt.svg"
+                  alt="LineChartOutlined2111"
+                  className="discoveroverflowbehavior-line-chart-outlined"
+                />
+              </a>
             </div>
-            <a href="scan"><img
-              src="/external/camerafilled2112-ionm.svg"
-              alt="CameraFilled2112"
-              className="discoveroverflowbehavior-camera-filled"
-            /></a>
+            <a href="scan">
+              <img
+                src="/external/camerafilled2112-ionm.svg"
+                alt="CameraFilled2112"
+                className="discoveroverflowbehavior-camera-filled"
+              />
+            </a>
 
-            <a href="my-infections"><img
-              src="/external/vector2112-sm44.svg"
-              alt="Vector2112"
-              className="discoveroverflowbehavior-vector1"
-            /></a>
+            <a href="my-infections">
+              <img
+                src="/external/vector2112-sm44.svg"
+                alt="Vector2112"
+                className="discoveroverflowbehavior-vector1"
+              />
+            </a>
           </div>
           <img
             src="/external/shape0591-co5-200h.png"
             alt="Shape0591"
             className="discoveroverflowbehavior-shape"
           />
-        </div>
-        <div className="discoveroverflowbehavior-status-bar">
-          <div className="discoveroverflowbehavior-connections">
-            <div className="discoveroverflowbehavior-battery">
-              <img
-                src="/external/borderi067-mwxh-200h.png"
-                alt="BorderI067"
-                className="discoveroverflowbehavior-border"
-              />
-              <img
-                src="/external/capi067-hery.svg"
-                alt="CapI067"
-                className="discoveroverflowbehavior-cap"
-              />
-              <img
-                src="/external/capacityi067-1yei-200h.png"
-                alt="CapacityI067"
-                className="discoveroverflowbehavior-capacity"
-              />
-            </div>
-            <div className="discoveroverflowbehavior-wifi">
-              <img
-                src="/external/wifii067-5hs5.svg"
-                alt="WifiI067"
-                className="discoveroverflowbehavior-wifi1"
-              />
-            </div>
-            <div className="discoveroverflowbehavior-cellular-connection">
-              <img
-                src="/external/cellularconnectioni067-r60u.svg"
-                alt="CellularConnectionI067"
-                className="discoveroverflowbehavior-cellular-connection1"
-              />
-            </div>
-          </div>
-          <div className="discoveroverflowbehavior-time">
-            <span className="discoveroverflowbehavior-text08">
-              <span>9:27</span>
-            </span>
-          </div>
         </div>
       </div>
     </div>

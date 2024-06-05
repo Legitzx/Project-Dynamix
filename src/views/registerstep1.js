@@ -1,8 +1,8 @@
-import React from 'react'
+import React from "react";
 
-import { Helmet } from 'react-helmet'
+import { Helmet } from "react-helmet";
 
-import './registerstep1.css'
+import "./registerstep1.css";
 
 const Registerstep1 = (props) => {
   return (
@@ -22,26 +22,20 @@ const Registerstep1 = (props) => {
           </span>
         </div>
         <div className="registerstep1-component">
-          <img
-            src="/external/rectangle2072-3i9i-200h.png"
-            alt="Rectangle2072"
-            className="registerstep1-rectangle2"
+          <input
+            type="email"
+            placeholder="Email"
+            className="login-rectangle2"
           />
-          <span className="registerstep1-text02">
-            <span>jane@example.com</span>
-          </span>
         </div>
         <div className="registerstep1-component1">
-          <img
-            src="/external/rectangle2i075-sfbf-200h.png"
-            alt="Rectangle2I075"
-            className="registerstep1-rectangle21"
+          <input
+            type="password"
+            placeholder="Password"
+            className="login-rectangle2"
           />
-          <span className="registerstep1-text04">
-            <span>••••••••••••</span>
-          </span>
         </div>
-        <a className="registerstep1-button" href='/scan'>
+        <a className="registerstep1-button" href="/scan">
           <img
             src="/external/rectangle2i076-70ro-200h.png"
             alt="Rectangle2I076"
@@ -361,49 +355,9 @@ const Registerstep1 = (props) => {
           alt="Union0763"
           className="registerstep1-union"
         />
-        <div className="registerstep1-status-bar">
-          <div className="registerstep1-connections">
-            <div className="registerstep1-battery">
-              <img
-                src="/external/border052-1ya-200h.png"
-                alt="Border052"
-                className="registerstep1-border"
-              />
-              <img
-                src="/external/cap053-0p4v.svg"
-                alt="Cap053"
-                className="registerstep1-cap"
-              />
-              <img
-                src="/external/capacity054-34zs-200h.png"
-                alt="Capacity054"
-                className="registerstep1-capacity"
-              />
-            </div>
-            <div className="registerstep1-wifi">
-              <img
-                src="/external/wifi056-woo.svg"
-                alt="Wifi056"
-                className="registerstep1-wifi1"
-              />
-            </div>
-            <div className="registerstep1-cellular-connection">
-              <img
-                src="/external/cellularconnection061-f2lu.svg"
-                alt="CellularConnection061"
-                className="registerstep1-cellular-connection1"
-              />
-            </div>
-          </div>
-          <div className="registerstep1-time">
-            <span className="registerstep1-text40">
-              <span>9:27</span>
-            </span>
-          </div>
-        </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Registerstep1
+export default Registerstep1;
