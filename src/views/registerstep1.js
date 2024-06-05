@@ -41,7 +41,7 @@ const Registerstep1 = (props) => {
             <span>••••••••••••</span>
           </span>
         </div>
-        <button className="registerstep1-button">
+        <a className="registerstep1-button" href='/scan'>
           <img
             src="/external/rectangle2i076-70ro-200h.png"
             alt="Rectangle2I076"
@@ -50,7 +50,7 @@ const Registerstep1 = (props) => {
           <span className="registerstep1-text06">
             <span>next</span>
           </span>
-        </button>
+        </a>
         <div className="registerstep1-keyboard">
           <img
             src="/external/background0202-za8-400w.png"

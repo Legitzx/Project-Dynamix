@@ -54,7 +54,7 @@ const Loggedout = (props) => {
         <span className="loggedout-text02">
           <span>register</span>
         </span>
-        <button className="loggedout-button">
+        <a className="loggedout-button" href="/login">
           <img
             src="/external/rectangle2043-4oc8-200h.png"
             alt="Rectangle2043"
@@ -63,8 +63,8 @@ const Loggedout = (props) => {
           <span className="loggedout-text04">
             <span>log in</span>
           </span>
-        </button>
-        <button className="loggedout-button1">
+        </a>
+        <a className="loggedout-button1" href="/registerstep1">
           <img
             src="/external/rectangle2i069-hga9-200h.png"
             alt="Rectangle2I069"
@@ -73,7 +73,7 @@ const Loggedout = (props) => {
           <span className="loggedout-text06">
             <span>register</span>
           </span>
-        </button>
+        </a>
         <img
           src="/external/rectangle042-y2w-800h.png"
           alt="Rectangle042"
@@ -90,7 +90,7 @@ const Loggedout = (props) => {
               Project
               <span
                 dangerouslySetInnerHTML={{
-                  __html: ' ',
+                  __html: " ",
                 }}
               />
             </span>
@@ -110,7 +110,7 @@ const Loggedout = (props) => {
         />
       </div>
     </div>
-  )
+  );
 }
 
 export default Loggedout

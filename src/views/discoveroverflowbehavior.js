@@ -1,10 +1,20 @@
-import React from 'react'
+import React, { useRef, useState } from "react";
+import { Helmet } from "react-helmet";
 
-import { Helmet } from 'react-helmet'
-
-import './discoveroverflowbehavior.css'
+import "./discoveroverflowbehavior.css";
 
 const Discoveroverflowbehavior = (props) => {
+  const fileInput = useRef(null);
+  const [fileName, setFileName] = useState("");
+
+  const handleButtonClick = () => {
+    fileInput.current.click();
+  };
+
+  const handleFileChange = (event) => {
+    // console.log("help");
+    setFileName(event.target.files[0].name);
+  };
   return (
     <div className="discoveroverflowbehavior-container">
       <Helmet>
@@ -16,17 +26,32 @@ const Discoveroverflowbehavior = (props) => {
           alt="Rectangle30890"
           className="discoveroverflowbehavior-rectangle3"
         />
-        <button className="discoveroverflowbehavior-button">
-          <img
-            src="/external/rectangle2i213-8kkd-200h.png"
-            alt="Rectangle2I213"
-            className="discoveroverflowbehavior-rectangle2"
+        <div>
+          <input
+            type="file"
+            style={{ display: "none" }}
+            ref={fileInput}
+            accept="image/*"
+            onChange={handleFileChange}
           />
-          <span className="discoveroverflowbehavior-text">
-            <span>UPLOAD IMAGE(S)</span>
-          </span>
-        </button>
-        <button className="discoveroverflowbehavior-button1">
+          <button
+            className="discoveroverflowbehavior-button"
+            onClick={handleButtonClick}
+          >
+            <img
+              src="/external/rectangle2i213-8kkd-200h.png"
+              alt="Rectangle2I213"
+              className="discoveroverflowbehavior-rectangle2"
+            />
+            <span className="discoveroverflowbehavior-text">
+              <span> {fileName ? `Selected file: ${fileName} ` : `UPLOAD IMAGE`}</span>
+            </span>
+          </button>
+          {/* <span className="discoveroverflowbehavior-rectangle3">
+            Selected file: {fileName}
+          </span> */}
+        </div>
+        <a className="discoveroverflowbehavior-button1" href="scan-resultsfail">
           <img
             src="/external/rectangle2i213-ebjp-200h.png"
             alt="Rectangle2I213"
@@ -35,7 +60,7 @@ const Discoveroverflowbehavior = (props) => {
           <span className="discoveroverflowbehavior-text02">
             <span>SCAN</span>
           </span>
-        </button>
+        </a>
         <div className="discoveroverflowbehavior-register">
           <span className="discoveroverflowbehavior-text04">
             <span>Scan</span>
@@ -124,7 +149,7 @@ const Discoveroverflowbehavior = (props) => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Discoveroverflowbehavior
+export default Discoveroverflowbehavior;
