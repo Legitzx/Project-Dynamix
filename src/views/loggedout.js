@@ -61,7 +61,7 @@ const Loggedout = (props) => {
             className="loggedout-rectangle2"
           />
           <span className="loggedout-text04">
-            <span>log in</span>
+            <span>Log In</span>
           </span>
         </a>
         <a className="loggedout-button1" href="/registerstep1">
@@ -71,7 +71,7 @@ const Loggedout = (props) => {
             className="loggedout-rectangle21"
           />
           <span className="loggedout-text06">
-            <span>register</span>
+            <span>Register</span>
           </span>
         </a>
         <img
