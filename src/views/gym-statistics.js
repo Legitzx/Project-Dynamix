@@ -175,46 +175,6 @@ const GymStatistics = (props) => {
             className="gym-statistics-shape"
           />
         </div>
-        <div className="gym-statistics-status-bar">
-          <div className="gym-statistics-connections">
-            <div className="gym-statistics-battery">
-              <img
-                src="/external/borderi078-nd1-200h.png"
-                alt="BorderI078"
-                className="gym-statistics-border"
-              />
-              <img
-                src="/external/capi078-fwgj.svg"
-                alt="CapI078"
-                className="gym-statistics-cap"
-              />
-              <img
-                src="/external/capacityi078-m34e-200h.png"
-                alt="CapacityI078"
-                className="gym-statistics-capacity"
-              />
-            </div>
-            <div className="gym-statistics-wifi">
-              <img
-                src="/external/wifii078-01re.svg"
-                alt="WifiI078"
-                className="gym-statistics-wifi1"
-              />
-            </div>
-            <div className="gym-statistics-cellular-connection">
-              <img
-                src="/external/cellularconnectioni078-k49.svg"
-                alt="CellularConnectionI078"
-                className="gym-statistics-cellular-connection1"
-              />
-            </div>
-          </div>
-          <div className="gym-statistics-time">
-            <span className="gym-statistics-text31">
-              <span>9:27</span>
-            </span>
-          </div>
-        </div>
       </div>
     </div>
   )

@@ -132,46 +132,6 @@ const MyInfections = (props) => {
             className="my-infections-shape"
           />
         </div>
-        <div className="my-infections-status-bar">
-          <div className="my-infections-connections">
-            <div className="my-infections-battery">
-              <img
-                src="/external/borderi078-wvi9-200h.png"
-                alt="BorderI078"
-                className="my-infections-border"
-              />
-              <img
-                src="/external/capi078-tp9j.svg"
-                alt="CapI078"
-                className="my-infections-cap"
-              />
-              <img
-                src="/external/capacityi078-257-200h.png"
-                alt="CapacityI078"
-                className="my-infections-capacity"
-              />
-            </div>
-            <div className="my-infections-wifi">
-              <img
-                src="/external/wifii078-zdxh.svg"
-                alt="WifiI078"
-                className="my-infections-wifi1"
-              />
-            </div>
-            <div className="my-infections-cellular-connection">
-              <img
-                src="/external/cellularconnectioni078-vxn.svg"
-                alt="CellularConnectionI078"
-                className="my-infections-cellular-connection1"
-              />
-            </div>
-          </div>
-          <div className="my-infections-time">
-            <span className="my-infections-text16">
-              <span>9:27</span>
-            </span>
-          </div>
-        </div>
       </div>
     </div>
   )
