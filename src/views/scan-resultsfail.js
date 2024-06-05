@@ -16,11 +16,13 @@ const ScanResultsfail = (props) => {
           alt="Rectangle22111"
           className="scan-resultsfail-rectangle2"
         />
+        <a href="/scan" >
         <img
           src="/external/arrowleftoutlined2111-8mx8e.svg"
           alt="ArrowLeftOutlined2111"
           className="scan-resultsfail-arrow-left-outlined"
         />
+        </a>
         <div className="scan-resultsfail-card-small">
           <div className="scan-resultsfail-frame">
             <div className="scan-resultsfail-frame1">

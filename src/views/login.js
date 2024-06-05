@@ -36,7 +36,7 @@ const Login = (props) => {
             <span>••••••••••••</span>
           </span>
         </div>
-        <button className="login-button">
+        <a className="login-button" href="/scan">
           <img
             src="/external/rectangle2i032-3kh4-200h.png"
             alt="Rectangle2I032"
@@ -45,7 +45,7 @@ const Login = (props) => {
           <span className="login-text04">
             <span>Log in</span>
           </span>
-        </button>
+        </a>
         <div className="login-keyboard">
           <img
             src="/external/background0329-282d-400w.png"
@@ -403,7 +403,7 @@ const Login = (props) => {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
 export default Login
