@@ -1,10 +1,17 @@
 import React from 'react'
+import {useState} from 'react'
 
 import { Helmet } from 'react-helmet'
 
 import './my-infections.css'
 
 const MyInfections = (props) => {
+  const [visible, setVisible] = useState(true)
+
+  const handleClick = () => {
+    setVisible(!visible);
+  };
+
   return (
     <div className="my-infections-container">
       <Helmet>
@@ -62,26 +69,34 @@ const MyInfections = (props) => {
         <span className="my-infections-text08">
           <span>RINGWORM</span>
         </span>
-        <span className="my-infections-text10">
+        {/* <span className="my-infections-text10">
           <span>STAPH</span>
-        </span>
+        </span> */}
         <span className="my-infections-text12">
-          <span>5/22/2024</span>
+          <span>6/06/2024</span>
         </span>
+
+        
+        {visible && 
         <div className="my-infections-frameiconcheck">
-          <img
+          <a href="#" onClick={handleClick}><img
             src="/external/vector2136-1sr.svg"
             alt="Vector2136"
             className="my-infections-vector"
-          />
+          /></a>
         </div>
-        <div className="my-infections-frameiconcheck1">
+        }
+        
+
+
+        {/* <div className="my-infections-frameiconcheck1">
           <img
             src="/external/vector2136-ahog.svg"
             alt="Vector2136"
             className="my-infections-vector1"
           />
-        </div>
+        </div> */}
+        {visible && 
         <div className="my-infections-frameiconxletter">
           <img
             src="/external/vector2136-scd.svg"
@@ -89,16 +104,18 @@ const MyInfections = (props) => {
             className="my-infections-vector2"
           />
         </div>
-        <span className="my-infections-text14">
+        }
+        
+        {/* <span className="my-infections-text14">
           <span>3/02/2024</span>
-        </span>
-        <div className="my-infections-frameiconxletter1">
+        </span> */}
+        {/* <div className="my-infections-frameiconxletter1">
           <img
             src="/external/vector2136-m3xw.svg"
             alt="Vector2136"
             className="my-infections-vector3"
           />
-        </div>
+        </div> */}
         <div className="my-infections-tab-bar">
           <div className="my-infections-background6">
             <img
