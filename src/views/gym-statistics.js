@@ -106,8 +106,8 @@ const GymStatistics = (props) => {
           alt="Background2137"
           className="gym-statistics-background3"
         />
-        {/* <span className="gym-statistics-text19">
-          <span>3/02/2024</span>
+        <span className="gym-statistics-text19">
+          <span>5/02/2024</span>
         </span>
         <span className="gym-statistics-text21">
           <span>STAPH</span>
@@ -117,7 +117,7 @@ const GymStatistics = (props) => {
           alt="Background2137"
           className="gym-statistics-background4"
         />
-        <span className="gym-statistics-text23">
+        {/* <span className="gym-statistics-text23">
           <span>2/12/2024</span>
         </span>
         <span className="gym-statistics-text25">
