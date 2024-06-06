@@ -51,7 +51,7 @@ const Discoveroverflowbehavior = (props) => {
             </span>
           </button>
         </div>
-        <a className="discoveroverflowbehavior-button1" href="scan-resultsfail">
+        <a className="discoveroverflowbehavior-button1" href="scan-resultspass">
           <img
             src="/external/rectangle2i213-ebjp-200h.png"
             alt="Rectangle2I213"
